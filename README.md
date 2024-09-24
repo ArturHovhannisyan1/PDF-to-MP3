@@ -31,17 +31,18 @@ This project is designed to convert PDF files into MP3 audio files. Simply provi
 
 1. Download the project
 
+```
 git clone https://github.com/ArturHovhannisyan1/PDF-to-MP3.git
-
+```
 2. Use pip to install all the required libraries.
-
+```
 pip install -r requirements.txt
-
+```
 
 ## Run
-
+```
 py main.py
-
+```
 
 ## Providing_path_and_language
 
